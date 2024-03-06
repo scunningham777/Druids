@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Druids.sln"
+    "dotnet.defaultSolution": "Druids.sln",
+    "dotnet.preferCSharpExtension": true
 }
